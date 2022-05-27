@@ -6,13 +6,13 @@
 
 
 **首页**
-![https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220527223243165.png]()*
+![](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220527223243165.png)
 
 **歌单页面**
-![https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220527223526761.png]()
+![](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220527223526761.png)
 
 **歌曲排行榜**
-![https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220527223825038.png]()
+![](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220527223825038.png)
 
 ****
 
